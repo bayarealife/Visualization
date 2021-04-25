@@ -1,3 +1,13 @@
 C:\Users\kyoko\anaconda3\envs\venv-dsnd-visualization
 
 activate venv-dsnd-visualization
+
+
+plotly should be version 2.7.0
+
+
+to run locally, worldbank.py:
+from worldbankapp import app
+app.run(debug=True)
+
+Procfile is only for Heroku
