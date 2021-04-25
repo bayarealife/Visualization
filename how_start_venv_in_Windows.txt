@@ -1,0 +1,3 @@
+C:\Users\kyoko\anaconda3\envs\venv-dsnd-visualization
+
+activate venv-dsnd-visualization
