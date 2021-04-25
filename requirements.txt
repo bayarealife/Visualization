@@ -235,7 +235,6 @@ SeekWell==0.1
 Send2Trash==1.5.0
 sentinels==1.0.0
 setproctitle==1.1.10
-Shapely==1.6.4.post1
 simplegeneric==0.8.1
 SimpleWebSocketServer==0.1.1
 six==1.11.0
