@@ -1,41 +1,16 @@
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-brotlipy==0.7.0
 certifi==2020.12.5
-cffi @ file:///C:/ci/cffi_1613247448451/work
-chardet @ file:///C:/ci/chardet_1607706876434/work
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
-cryptography @ file:///C:/ci/cryptography_1616769482701/work
-decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+click==7.1.2
+Flask==1.1.2
 gunicorn==20.1.0
-idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1617877487840/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 itsdangerous==1.1.0
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-jupyter-core @ file:///C:/ci/jupyter_core_1612213517067/work
+Jinja2==2.11.3
 MarkupSafe==1.1.1
-mkl-fft==1.3.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603490066445/work
-pandas @ file:///C:/ci/pandas_1602088211472/work
-plotly==2.7.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-pyrsistent @ file:///C:/ci/pyrsistent_1600141492880/work
-PySocks @ file:///C:/ci/pysocks_1605287769973/work
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-pywin32==227
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
-six @ file:///C:/ci/six_1605205421846/work
-traitlets==4.3.3
-typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
-urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
-Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605288056837/work
+numpy==1.20.2
+pandas==1.2.4
+plotly==4.14.3
+python-dateutil==2.8.1
+pytz==2021.1
+retrying==1.3.3
+six==1.15.0
+Werkzeug==1.0.1
 wincertstore==0.2
-zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
